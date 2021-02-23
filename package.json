@@ -1,10 +1,11 @@
 {
 	"author": "rafal",
+	"version": "1.2.0",
 	"description": "A project that does something awesome",
 	"keywords": [
 		"freecodecamp"
 	],
-  "license": "MIT",
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
